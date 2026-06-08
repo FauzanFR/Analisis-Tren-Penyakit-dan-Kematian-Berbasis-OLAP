@@ -1,0 +1,1045 @@
+kode_negara,tahun,gdp_per_capita,negara,level_pendapatan
+AFE,2020,1351.59166910879,Africa Eastern and Southern,Aggregates
+AFE,2019,1507.08559963484,Africa Eastern and Southern,Aggregates
+AFE,2018,1552.07372194919,Africa Eastern and Southern,Aggregates
+AFE,2017,1528.10422421284,Africa Eastern and Southern,Aggregates
+AFW,2020,2030.86165860293,Africa Western and Central,Aggregates
+AFW,2019,2216.38505520833,Africa Western and Central,Aggregates
+AFW,2018,1720.14009242722,Africa Western and Central,Aggregates
+AFW,2017,1574.23056437855,Africa Western and Central,Aggregates
+ARB,2020,5739.41283580539,Arab World,Aggregates
+ARB,2019,6674.34224402621,Arab World,Aggregates
+ARB,2018,6699.18058175457,Arab World,Aggregates
+ARB,2017,6096.72395041636,Arab World,Aggregates
+CSS,2020,11957.223222537,Caribbean small states,Aggregates
+CSS,2019,13995.8548364074,Caribbean small states,Aggregates
+CSS,2018,13896.7409040963,Caribbean small states,Aggregates
+CSS,2017,13671.1377634132,Caribbean small states,Aggregates
+CEB,2020,16581.3526115028,Central Europe and the Baltics,Aggregates
+CEB,2019,16534.9264870407,Central Europe and the Baltics,Aggregates
+CEB,2018,16227.2484719489,Central Europe and the Baltics,Aggregates
+CEB,2017,14339.8243059389,Central Europe and the Baltics,Aggregates
+EAR,2020,3187.03781234801,Early-demographic dividend,Aggregates
+EAR,2019,3483.31545469615,Early-demographic dividend,Aggregates
+EAR,2018,3463.50882263374,Early-demographic dividend,Aggregates
+EAR,2017,3457.64943157186,Early-demographic dividend,Aggregates
+EAS,2020,11639.4853357389,East Asia & Pacific,Aggregates
+EAS,2019,11622.8915284736,East Asia & Pacific,Aggregates
+EAS,2018,11438.8584591418,East Asia & Pacific,Aggregates
+EAS,2017,10566.2828244863,East Asia & Pacific,Aggregates
+EAP,2020,8391.27634645494,East Asia & Pacific (excluding high income),Aggregates
+EAP,2019,8286.3981179292,East Asia & Pacific (excluding high income),Aggregates
+EAP,2018,8045.94630458507,East Asia & Pacific (excluding high income),Aggregates
+EAP,2017,7241.92533864361,East Asia & Pacific (excluding high income),Aggregates
+TEA,2020,8485.32855185979,East Asia & Pacific (IDA & IBRD countries),Aggregates
+TEA,2019,8379.36503263574,East Asia & Pacific (IDA & IBRD countries),Aggregates
+TEA,2018,8136.37041895137,East Asia & Pacific (IDA & IBRD countries),Aggregates
+TEA,2017,7323.51364847919,East Asia & Pacific (IDA & IBRD countries),Aggregates
+EMU,2020,38236.5543048506,Euro area,Aggregates
+EMU,2019,39220.5136743355,Euro area,Aggregates
+EMU,2018,40107.5362854643,Euro area,Aggregates
+EMU,2017,37243.5651015997,Euro area,Aggregates
+ECS,2020,24167.3551199699,Europe & Central Asia,Aggregates
+ECS,2019,25020.8648271756,Europe & Central Asia,Aggregates
+ECS,2018,25408.6379771601,Europe & Central Asia,Aggregates
+ECS,2017,23814.1197034605,Europe & Central Asia,Aggregates
+ECA,2020,5776.19343817718,Europe & Central Asia (excluding high income),Aggregates
+ECA,2019,6069.27407282315,Europe & Central Asia (excluding high income),Aggregates
+ECA,2018,5996.28775888893,Europe & Central Asia (excluding high income),Aggregates
+ECA,2017,6138.12063922999,Europe & Central Asia (excluding high income),Aggregates
+TEC,2020,8478.35038656806,Europe & Central Asia (IDA & IBRD countries),Aggregates
+TEC,2019,9058.74177112172,Europe & Central Asia (IDA & IBRD countries),Aggregates
+TEC,2018,8911.87742979014,Europe & Central Asia (IDA & IBRD countries),Aggregates
+TEC,2017,8575.46129195764,Europe & Central Asia (IDA & IBRD countries),Aggregates
+EUU,2020,34694.7035869195,European Union,Aggregates
+EUU,2019,35374.1403676934,European Union,Aggregates
+EUU,2018,36054.953230113,European Union,Aggregates
+EUU,2017,33394.5888043692,European Union,Aggregates
+FCS,2020,1618.4798041022,Fragile and conflict affected situations,Aggregates
+FCS,2019,1861.6533045303,Fragile and conflict affected situations,Aggregates
+FCS,2018,1634.92965875473,Fragile and conflict affected situations,Aggregates
+FCS,2017,1549.60952933559,Fragile and conflict affected situations,Aggregates
+HPC,2020,962.590226473892,Heavily indebted poor countries (HIPC),Aggregates
+HPC,2019,983.900062178744,Heavily indebted poor countries (HIPC),Aggregates
+HPC,2018,985.478210719267,Heavily indebted poor countries (HIPC),Aggregates
+HPC,2017,943.132832332498,Heavily indebted poor countries (HIPC),Aggregates
+IBD,2020,6191.51088391849,IBRD only,Aggregates
+IBD,2019,6476.07259783679,IBRD only,Aggregates
+IBD,2018,6394.19484299789,IBRD only,Aggregates
+IBD,2017,6053.30921793356,IBRD only,Aggregates
+IBT,2020,4923.57218418891,IDA & IBRD total,Aggregates
+IBT,2019,5167.89523774326,IDA & IBRD total,Aggregates
+IBT,2018,5085.50217477104,IDA & IBRD total,Aggregates
+IBT,2017,4831.93005964107,IDA & IBRD total,Aggregates
+IDB,2020,2008.89632662853,IDA blend,Aggregates
+IDB,2019,2205.87361894796,IDA blend,Aggregates
+IDB,2018,1869.38204447614,IDA blend,Aggregates
+IDB,2017,1804.50559433385,IDA blend,Aggregates
+IDX,2020,1170.98051516892,IDA only,Aggregates
+IDX,2019,1186.40559680864,IDA only,Aggregates
+IDX,2018,1159.06134313704,IDA only,Aggregates
+IDX,2017,1110.744251052,IDA only,Aggregates
+IDA,2020,1464.52261402905,IDA total,Aggregates
+IDA,2019,1544.27890067061,IDA total,Aggregates
+IDA,2018,1408.95016839901,IDA total,Aggregates
+IDA,2017,1355.23505457315,IDA total,Aggregates
+LTE,2020,9873.93519864422,Late-demographic dividend,Aggregates
+LTE,2019,10120.3125161359,Late-demographic dividend,Aggregates
+LTE,2018,9966.81160876463,Late-demographic dividend,Aggregates
+LTE,2017,9138.44134545505,Late-demographic dividend,Aggregates
+LCN,2020,7168.64740599577,Latin America & Caribbean ,Aggregates
+LCN,2019,8539.39776066424,Latin America & Caribbean ,Aggregates
+LCN,2018,8778.37906311973,Latin America & Caribbean ,Aggregates
+LCN,2017,9065.54817792866,Latin America & Caribbean ,Aggregates
+LAC,2020,6904.27677369596,Latin America & Caribbean (excluding high income),Aggregates
+LAC,2019,8282.78290882792,Latin America & Caribbean (excluding high income),Aggregates
+LAC,2018,8484.48335233409,Latin America & Caribbean (excluding high income),Aggregates
+LAC,2017,8827.8501051856,Latin America & Caribbean (excluding high income),Aggregates
+TLA,2020,6964.3711102796,Latin America & the Caribbean (IDA & IBRD countries),Aggregates
+TLA,2019,8362.63429845968,Latin America & the Caribbean (IDA & IBRD countries),Aggregates
+TLA,2018,8620.46890240755,Latin America & the Caribbean (IDA & IBRD countries),Aggregates
+TLA,2017,8918.30251254156,Latin America & the Caribbean (IDA & IBRD countries),Aggregates
+LDC,2020,1088.72161311357,Least developed countries: UN classification,Aggregates
+LDC,2019,1105.24693378698,Least developed countries: UN classification,Aggregates
+LDC,2018,1080.56177999961,Least developed countries: UN classification,Aggregates
+LDC,2017,1035.19428808636,Least developed countries: UN classification,Aggregates
+LMY,2020,4732.82727829687,Low & middle income,Aggregates
+LMY,2019,4943.24879858439,Low & middle income,Aggregates
+LMY,2018,4853.74507668345,Low & middle income,Aggregates
+LMY,2017,4615.000484095,Low & middle income,Aggregates
+MEA,2020,4742.76402632259,"Middle East, North Africa, Afghanistan & Pakistan",Aggregates
+MEA,2019,5412.42875673528,"Middle East, North Africa, Afghanistan & Pakistan",Aggregates
+MEA,2018,5545.88899607591,"Middle East, North Africa, Afghanistan & Pakistan",Aggregates
+MEA,2017,5279.47951180077,"Middle East, North Africa, Afghanistan & Pakistan",Aggregates
+MNA,2020,2408.49731335268,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",Aggregates
+MNA,2019,2695.63342343005,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",Aggregates
+MNA,2018,2809.30894215325,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",Aggregates
+MNA,2017,2859.85560174494,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",Aggregates
+TMN,2020,2402.73480964452,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",Aggregates
+TMN,2019,2688.96932958269,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",Aggregates
+TMN,2018,2804.12633142444,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",Aggregates
+TMN,2017,2854.66192638041,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",Aggregates
+MIC,2020,5134.62007912707,Middle income,Aggregates
+MIC,2019,5353.79775844374,Middle income,Aggregates
+MIC,2018,5248.39737081301,Middle income,Aggregates
+MIC,2017,4982.00575599033,Middle income,Aggregates
+NAC,2020,61468.3372208474,North America,Aggregates
+NAC,2019,62874.6117089583,North America,Aggregates
+NAC,2018,60890.5689258698,North America,Aggregates
+NAC,2017,58184.8571647569,North America,Aggregates
+OED,2020,38597.246423496,OECD members,Aggregates
+OED,2019,39708.8864576635,OECD members,Aggregates
+OED,2018,39552.6956716291,OECD members,Aggregates
+OED,2017,37605.270624989,OECD members,Aggregates
+OSS,2020,11770.4564127379,Other small states,Aggregates
+OSS,2019,12907.6162560274,Other small states,Aggregates
+OSS,2018,13025.990833966,Other small states,Aggregates
+OSS,2017,11950.9740553004,Other small states,Aggregates
+PSS,2020,3592.04110507296,Pacific island small states,Aggregates
+PSS,2019,4136.34140894161,Pacific island small states,Aggregates
+PSS,2018,4247.0901276249,Pacific island small states,Aggregates
+PSS,2017,4099.79965867267,Pacific island small states,Aggregates
+PST,2020,44743.738932431,Post-demographic dividend,Aggregates
+PST,2019,45840.3536114764,Post-demographic dividend,Aggregates
+PST,2018,45535.8018785923,Post-demographic dividend,Aggregates
+PST,2017,43114.2688521392,Post-demographic dividend,Aggregates
+PRE,2020,1496.33767488397,Pre-demographic dividend,Aggregates
+PRE,2019,1681.19065754666,Pre-demographic dividend,Aggregates
+PRE,2018,1449.85562070843,Pre-demographic dividend,Aggregates
+PRE,2017,1338.96011884626,Pre-demographic dividend,Aggregates
+SST,2020,10723.093901861,Small states,Aggregates
+SST,2019,11990.4670996465,Small states,Aggregates
+SST,2018,12057.788581183,Small states,Aggregates
+SST,2017,11304.5050810878,Small states,Aggregates
+SAS,2020,1957.20343722686,South Asia,Aggregates
+SAS,2019,2067.05975687637,South Asia,Aggregates
+SAS,2018,1988.3663331799,South Asia,Aggregates
+SAS,2017,1956.06707554186,South Asia,Aggregates
+TSA,2020,1957.20343722686,South Asia (IDA & IBRD),Aggregates
+TSA,2019,2067.05975687637,South Asia (IDA & IBRD),Aggregates
+TSA,2018,1988.3663331799,South Asia (IDA & IBRD),Aggregates
+TSA,2017,1956.06707554186,South Asia (IDA & IBRD),Aggregates
+SSF,2020,1627.34569596297,Sub-Saharan Africa ,Aggregates
+SSF,2019,1795.5612786554,Sub-Saharan Africa ,Aggregates
+SSF,2018,1620.54140805919,Sub-Saharan Africa ,Aggregates
+SSF,2017,1546.91774199323,Sub-Saharan Africa ,Aggregates
+SSA,2020,1716.50863861427,Sub-Saharan Africa (excluding high income),Aggregates
+SSA,2019,1907.22499436387,Sub-Saharan Africa (excluding high income),Aggregates
+SSA,2018,1718.42346098448,Sub-Saharan Africa (excluding high income),Aggregates
+SSA,2017,1641.39239957439,Sub-Saharan Africa (excluding high income),Aggregates
+TSS,2020,1627.34569596297,Sub-Saharan Africa (IDA & IBRD countries),Aggregates
+TSS,2019,1795.5612786554,Sub-Saharan Africa (IDA & IBRD countries),Aggregates
+TSS,2018,1620.54140805919,Sub-Saharan Africa (IDA & IBRD countries),Aggregates
+TSS,2017,1546.91774199323,Sub-Saharan Africa (IDA & IBRD countries),Aggregates
+WLD,2020,10937.6846205191,World,Aggregates
+WLD,2019,11376.0818134476,World,Aggregates
+WLD,2018,11309.3830773178,World,Aggregates
+WLD,2017,10747.764306505,World,Aggregates
+AFG,2020,510.787063366811,Afghanistan,Low income
+AFG,2019,496.6025042585,Afghanistan,Low income
+AFG,2018,491.337221382603,Afghanistan,Low income
+AFG,2017,525.469770891619,Afghanistan,Low income
+ALB,2020,6027.91350716348,Albania,Upper middle income
+ALB,2019,6069.43903131027,Albania,Upper middle income
+ALB,2018,5897.65452588774,Albania,Upper middle income
+ALB,2017,5006.36012951959,Albania,Upper middle income
+DZA,2020,3743.5419522929,Algeria,Upper middle income
+DZA,2019,4468.45341883656,Algeria,Upper middle income
+DZA,2018,4577.21029180491,Algeria,Upper middle income
+DZA,2017,4554.66753957828,Algeria,Upper middle income
+ASM,2020,14489.2586563775,American Samoa,High income
+ASM,2019,12886.1359517218,American Samoa,High income
+ASM,2018,12552.0546868861,American Samoa,High income
+ASM,2017,11863.6839452565,American Samoa,High income
+AND,2020,37361.1070081615,Andorra,High income
+AND,2019,41257.816459345,Andorra,High income
+AND,2018,42819.7577456133,Andorra,High income
+AND,2017,40672.9717424447,Andorra,High income
+AGO,2020,1759.35619918264,Angola,Lower middle income
+AGO,2019,2493.67884440177,Angola,Lower middle income
+AGO,2018,2860.0936483682,Angola,Lower middle income
+AGO,2017,2790.71886869768,Angola,Lower middle income
+ATG,2020,15369.6082250401,Antigua and Barbuda,High income
+ATG,2019,18896.3721832248,Antigua and Barbuda,High income
+ATG,2018,18273.4270684912,Antigua and Barbuda,High income
+ATG,2017,16965.7288273816,Antigua and Barbuda,High income
+ARG,2020,8535.59938004389,Argentina,Upper middle income
+ARG,2019,9955.97478680428,Argentina,Upper middle income
+ARG,2018,11752.7998922979,Argentina,Upper middle income
+ARG,2017,14532.5009308511,Argentina,Upper middle income
+ARM,2020,4268.68093304583,Armenia,Upper middle income
+ARM,2019,4597.22887399548,Armenia,Upper middle income
+ARM,2018,4196.00562301769,Armenia,Upper middle income
+ARM,2017,3869.05373867752,Armenia,Upper middle income
+ABW,2020,22759.8071750722,Aruba,High income
+ABW,2019,30645.8906024548,Aruba,High income
+ABW,2018,30082.1584226798,Aruba,High income
+ABW,2017,28440.0416881491,Aruba,High income
+AUS,2020,51983.4523666382,Australia,High income
+AUS,2019,55194.7585097428,Australia,High income
+AUS,2018,57410.1737346009,Australia,High income
+AUS,2017,54117.547718609,Australia,High income
+AUT,2020,48716.4098900349,Austria,High income
+AUT,2019,49885.9947355204,Austria,High income
+AUT,2018,51194.0749841299,Austria,High income
+AUT,2017,47163.7425775142,Austria,High income
+AZE,2020,4229.91064904503,Azerbaijan,Upper middle income
+AZE,2019,4805.75371765917,Azerbaijan,Upper middle income
+AZE,2018,4739.7943123408,Azerbaijan,Upper middle income
+AZE,2017,4147.1981423222,Azerbaijan,Upper middle income
+BHS,2020,26178.7537607708,"Bahamas, The",High income
+BHS,2019,33640.3369861278,"Bahamas, The",High income
+BHS,2018,32642.3353203452,"Bahamas, The",High income
+BHS,2017,31875.4881749619,"Bahamas, The",High income
+BHR,2020,24342.8444554718,Bahrain,High income
+BHR,2019,27259.7438599327,Bahrain,High income
+BHR,2018,26324.4066549559,Bahrain,High income
+BHR,2017,24784.7693514607,Bahrain,High income
+BGD,2020,2248.85078828233,Bangladesh,Lower middle income
+BGD,2019,2129.79896954606,Bangladesh,Lower middle income
+BGD,2018,1965.24372731467,Bangladesh,Lower middle income
+BGD,2017,1811.08221668646,Bangladesh,Lower middle income
+BRB,2020,19194.4919736739,Barbados,High income
+BRB,2019,21912.1501242857,Barbados,High income
+BRB,2018,21381.2426303209,Barbados,High income
+BRB,2017,20284.5762052461,Barbados,High income
+BLR,2020,6542.85579976768,Belarus,Upper middle income
+BLR,2019,6837.77339645635,Belarus,Upper middle income
+BLR,2018,6360.037502312,Belarus,Upper middle income
+BLR,2017,5785.54491935194,Belarus,Upper middle income
+BEL,2020,45906.2875805246,Belgium,High income
+BEL,2019,46716.6227467964,Belgium,High income
+BEL,2018,47487.2100392561,Belgium,High income
+BEL,2017,44035.3239358548,Belgium,High income
+BLZ,2020,5238.54078175696,Belize,Upper middle income
+BLZ,2019,6171.61449761423,Belize,Upper middle income
+BLZ,2018,6011.99036888587,Belize,Upper middle income
+BLZ,2017,6071.85451846453,Belize,Upper middle income
+BEN,2020,1200.19426557789,Benin,Lower middle income
+BEN,2019,1130.82135339795,Benin,Lower middle income
+BEN,2018,1151.7409703472,Benin,Lower middle income
+BEN,2017,1054.97408066814,Benin,Lower middle income
+BMU,2020,106976.546239632,Bermuda,High income
+BMU,2019,115798.040775578,Bermuda,High income
+BMU,2018,113204.82210838,Bermuda,High income
+BMU,2017,112339.425587467,Bermuda,High income
+BTN,2020,3191.66906999331,Bhutan,Lower middle income
+BTN,2019,3576.87987100503,Bhutan,Lower middle income
+BTN,2018,3400.20417245342,Bhutan,Lower middle income
+BTN,2017,3435.28804735662,Bhutan,Lower middle income
+BOL,2020,3580.96761778303,Bolivia,Lower middle income
+BOL,2019,4203.15492855788,Bolivia,Lower middle income
+BOL,2018,4206.8552936661,Bolivia,Lower middle income
+BOL,2017,4048.40119739839,Bolivia,Lower middle income
+BIH,2020,6130.31187968266,Bosnia and Herzegovina,Upper middle income
+BIH,2019,6122.37541352353,Bosnia and Herzegovina,Upper middle income
+BIH,2018,6047.84707207392,Bosnia and Herzegovina,Upper middle income
+BIH,2017,5345.01978766473,Bosnia and Herzegovina,Upper middle income
+BWA,2020,6323.2974967659,Botswana,Upper middle income
+BWA,2019,7172.08956480028,Botswana,Upper middle income
+BWA,2018,7407.95940141786,Botswana,Upper middle income
+BWA,2017,7104.96401088027,Botswana,Upper middle income
+BRA,2020,7074.19407495707,Brazil,Upper middle income
+BRA,2019,9029.83304401079,Brazil,Upper middle income
+BRA,2018,9300.66072904004,Brazil,Upper middle income
+BRA,2017,10080.5078722821,Brazil,Upper middle income
+VGB,2020,32067.9623756889,British Virgin Islands,High income
+VGB,2019,32067.9623756889,British Virgin Islands,High income
+VGB,2018,32067.9623756889,British Virgin Islands,High income
+VGB,2017,32067.9623756889,British Virgin Islands,High income
+BRN,2020,26834.3592233943,Brunei Darussalam,High income
+BRN,2019,30426.5730656528,Brunei Darussalam,High income
+BRN,2018,30988.1190267227,Brunei Darussalam,High income
+BRN,2017,28024.3824580252,Brunei Darussalam,High income
+BGR,2020,10760.211975413,Bulgaria,High income
+BGR,2019,10353.7204584127,Bulgaria,High income
+BGR,2018,9849.38397225174,Bulgaria,High income
+BGR,2017,8696.68930427924,Bulgaria,High income
+BFA,2020,825.237038782475,Burkina Faso,Low income
+BFA,2019,764.853077774946,Burkina Faso,Low income
+BFA,2018,777.465618514048,Burkina Faso,Low income
+BFA,2017,709.091535894695,Burkina Faso,Low income
+BDI,2020,255.8324539389,Burundi,Low income
+BDI,2019,234.31061590725,Burundi,Low income
+BDI,2018,245.661678332009,Burundi,Low income
+BDI,2017,246.060725714184,Burundi,Low income
+CPV,2020,3539.22661248299,Cabo Verde,Upper middle income
+CPV,2019,4380.78117331128,Cabo Verde,Upper middle income
+CPV,2018,4294.96510035729,Cabo Verde,Upper middle income
+CPV,2017,3893.09571382506,Cabo Verde,Upper middle income
+KHM,2020,2081.73914242939,Cambodia,Lower middle income
+KHM,2019,2225.87705485686,Cambodia,Lower middle income
+KHM,2018,2036.67377566578,Cambodia,Lower middle income
+KHM,2017,1826.35391688754,Cambodia,Lower middle income
+CMR,2020,1555.60370660749,Cameroon,Lower middle income
+CMR,2019,1555.22660476477,Cameroon,Lower middle income
+CMR,2018,1610.69641591017,Cameroon,Lower middle income
+CMR,2017,1496.08951771242,Cameroon,Lower middle income
+CAN,2020,43537.839298904,Canada,High income
+CAN,2019,46352.8693445211,Canada,High income
+CAN,2018,46539.1761570405,Canada,High income
+CAN,2017,45129.628116623,Canada,High income
+CYM,2020,82338.7977439023,Cayman Islands,High income
+CYM,2019,88254.2902486867,Cayman Islands,High income
+CYM,2018,83865.5540393356,Cayman Islands,High income
+CYM,2017,80053.9442657031,Cayman Islands,High income
+CAF,2020,462.879071294011,Central African Republic,Low income
+CAF,2019,449.228467602439,Central African Republic,Low income
+CAF,2018,455.243962859534,Central African Republic,Low income
+CAF,2017,432.324025684263,Central African Republic,Low income
+TCD,2020,866.947814890409,Chad,Low income
+TCD,2019,893.336441643325,Chad,Low income
+TCD,2018,948.656629871231,Chad,Low income
+TCD,2017,854.46120040098,Chad,Low income
+CHI,2020,56785.9402005039,Channel Islands,High income
+CHI,2019,60564.6293993681,Channel Islands,High income
+CHI,2018,60784.8125397162,Channel Islands,High income
+CHI,2017,55806.3554257428,Channel Islands,High income
+CHL,2020,13114.815470545,Chile,High income
+CHL,2019,14495.716721687,Chile,High income
+CHL,2018,15659.4808675628,Chile,High income
+CHL,2017,14879.9086227187,Chile,High income
+CHN,2020,10627.4637989619,China,Upper middle income
+CHN,2019,10342.9009524335,China,Upper middle income
+CHN,2018,10085.6638148819,China,Upper middle income
+CHN,2017,8979.67652709856,China,Upper middle income
+COL,2020,5339.68711357943,Colombia,Upper middle income
+COL,2019,6472.54544924705,Colombia,Upper middle income
+COL,2018,6816.96818309544,Colombia,Upper middle income
+COL,2017,6479.53231292429,Colombia,Upper middle income
+COM,2020,1519.34665556206,Comoros,Lower middle income
+COM,2019,1510.23218151592,Comoros,Lower middle income
+COM,2018,1527.40527125285,Comoros,Lower middle income
+COM,2017,1423.9248027797,Comoros,Lower middle income
+COD,2020,486.425572682256,"Congo, Dem. Rep.",Low income
+COD,2019,504.00419142286,"Congo, Dem. Rep.",Low income
+COD,2018,518.169626875371,"Congo, Dem. Rep.",Low income
+COD,2017,431.052559128788,"Congo, Dem. Rep.",Low income
+COG,2020,1993.586671931,"Congo, Rep.",Lower middle income
+COG,2019,2488.42466724916,"Congo, Rep.",Lower middle income
+COG,2018,2694.43413191427,"Congo, Rep.",Lower middle income
+COG,2017,2211.63309874797,"Congo, Rep.",Lower middle income
+CRI,2020,12394.0493969492,Costa Rica,High income
+CRI,2019,12884.6859951989,Costa Rica,High income
+CRI,2018,12590.2493781614,Costa Rica,High income
+CRI,2017,12317.0902771304,Costa Rica,High income
+CIV,2020,2179.72934832935,Cote d'Ivoire,Lower middle income
+CIV,2019,2141.76836170115,Cote d'Ivoire,Lower middle income
+CIV,2018,2130.86619381144,Cote d'Ivoire,Lower middle income
+CIV,2017,1964.29930338343,Cote d'Ivoire,Lower middle income
+HRV,2020,14807.5608543265,Croatia,High income
+HRV,2019,15563.5987295029,Croatia,High income
+HRV,2018,15460.3669595491,Croatia,High income
+HRV,2017,13901.7878144679,Croatia,High income
+CUB,2020,9605.27914559614,Cuba,Upper middle income
+CUB,2019,9232.26115935183,Cuba,Upper middle income
+CUB,2018,8911.46205998726,Cuba,Upper middle income
+CUB,2017,8610.60829605429,Cuba,Upper middle income
+CUW,2020,16299.8134349902,Curacao,High income
+CUW,2019,19220.6865793075,Curacao,High income
+CUW,2018,19119.1244887029,Curacao,High income
+CUW,2017,18938.2440965187,Curacao,High income
+CYP,2020,28130.341796875,Cyprus,High income
+CYP,2019,29227.173828125,Cyprus,High income
+CYP,2018,29120.375,Cyprus,High income
+CYP,2017,26247.44921875,Cyprus,High income
+CZE,2020,23472.8915454417,Czechia,High income
+CZE,2019,24062.7190013343,Czechia,High income
+CZE,2018,23705.9329811299,Czechia,High income
+CZE,2017,20913.197632212,Czechia,High income
+DNK,2020,60985.4885601514,Denmark,High income
+DNK,2019,59404.2663247723,Denmark,High income
+DNK,2018,61324.7665045565,Denmark,High income
+DNK,2017,57521.5514992225,Denmark,High income
+DJI,2020,2844.88810647853,Djibouti,Lower middle income
+DJI,2019,2837.16902340932,Djibouti,Lower middle income
+DJI,2018,2718.08338799203,Djibouti,Lower middle income
+DJI,2017,2618.95521147369,Djibouti,Lower middle income
+DMA,2020,7827.74842680426,Dominica,Upper middle income
+DMA,2019,9491.14995962374,Dominica,Upper middle income
+DMA,2018,9215.3085405645,Dominica,Upper middle income
+DMA,2017,8224.64896571414,Dominica,Upper middle income
+DOM,2020,7135.22273255899,Dominican Republic,Upper middle income
+DOM,2019,8183.01623600375,Dominican Republic,Upper middle income
+DOM,2018,7882.98221584944,Dominican Republic,Upper middle income
+DOM,2017,7412.71571571512,Dominican Republic,Upper middle income
+ECU,2020,5463.64515348598,Ecuador,Upper middle income
+ECU,2019,6205.05765246766,Ecuador,Upper middle income
+ECU,2018,6303.91886658338,Ecuador,Upper middle income
+ECU,2017,6233.32244797718,Ecuador,Upper middle income
+EGY,2020,3511.11381026379,"Egypt, Arab Rep.",Lower middle income
+EGY,2019,2962.98892023003,"Egypt, Arab Rep.",Lower middle income
+EGY,2018,2484.70315630508,"Egypt, Arab Rep.",Lower middle income
+EGY,2017,2395.10333299491,"Egypt, Arab Rep.",Lower middle income
+SLV,2020,3997.19279583709,El Salvador,Upper middle income
+SLV,2019,4320.11671534627,El Salvador,Upper middle income
+SLV,2018,4183.54620971358,El Salvador,Upper middle income
+SLV,2017,4020.12671373919,El Salvador,Upper middle income
+GNQ,2020,5764.05502912947,Equatorial Guinea,Upper middle income
+GNQ,2019,6804.14923073888,Equatorial Guinea,Upper middle income
+GNQ,2018,8102.47084834031,Equatorial Guinea,Upper middle income
+GNQ,2017,7809.10465655488,Equatorial Guinea,Upper middle income
+ERI,2020,694.2114670452045,Eritrea,Low income
+ERI,2019,694.2114670452045,Eritrea,Low income
+ERI,2018,694.2114670452045,Eritrea,Low income
+ERI,2017,694.2114670452045,Eritrea,Low income
+EST,2020,23933.9939421065,Estonia,High income
+EST,2019,24021.2501413306,Estonia,High income
+EST,2018,23618.1361254581,Estonia,High income
+EST,2017,20851.5223496861,Estonia,High income
+SWZ,2020,3466.56936278145,Eswatini,Lower middle income
+SWZ,2019,3913.14577547336,Eswatini,Lower middle income
+SWZ,2018,3972.65450620357,Eswatini,Lower middle income
+SWZ,2017,3853.09956569679,Eswatini,Lower middle income
+ETH,2020,829.790982547947,Ethiopia,Unknown
+ETH,2019,793.473247210264,Ethiopia,Unknown
+ETH,2018,739.702022272086,Ethiopia,Unknown
+ETH,2017,696.348429076216,Ethiopia,Unknown
+FRO,2020,62243.1905561324,Faroe Islands,High income
+FRO,2019,63068.2872688483,Faroe Islands,High income
+FRO,2018,62526.4908515743,Faroe Islands,High income
+FRO,2017,59387.353086482,Faroe Islands,High income
+FJI,2020,4620.6457238014,Fiji,Upper middle income
+FJI,2019,5842.07344577597,Fiji,Upper middle income
+FJI,2018,6085.41979485376,Fiji,Upper middle income
+FJI,2017,5826.84814459328,Fiji,Upper middle income
+FIN,2020,48828.6846862799,Finland,High income
+FIN,2019,48358.1807773701,Finland,High income
+FIN,2018,49654.2497035329,Finland,High income
+FIN,2017,46085.0174739036,Finland,High income
+FRA,2020,39169.8606000707,France,High income
+FRA,2019,40408.2848574751,France,High income
+FRA,2018,41418.1766484844,France,High income
+FRA,2017,38687.1626407164,France,High income
+PYF,2020,19966.4838503859,French Polynesia,High income
+PYF,2019,21582.5892046801,French Polynesia,High income
+PYF,2018,21925.616043938,French Polynesia,High income
+PYF,2017,20826.9312492172,French Polynesia,High income
+GAB,2020,6605.80346077565,Gabon,Upper middle income
+GAB,2019,7441.1786472281,Gabon,Upper middle income
+GAB,2018,7624.2775233771,Gabon,Upper middle income
+GAB,2017,6921.73373135624,Gabon,Upper middle income
+GMB,2020,720.335143352133,"Gambia, The",Low income
+GMB,2019,738.186751987483,"Gambia, The",Low income
+GMB,2018,696.219806960615,"Gambia, The",Low income
+GMB,2017,642.522641296331,"Gambia, The",Low income
+GEO,2020,4300.85701291207,Georgia,Upper middle income
+GEO,2019,4741.2832715876,Georgia,Upper middle income
+GEO,2018,4804.0546040444,Georgia,Upper middle income
+GEO,2017,4418.75206546679,Georgia,Upper middle income
+DEU,2020,47394.8734504469,Germany,High income
+DEU,2019,47656.199739747,Germany,High income
+DEU,2018,48916.1686612154,Germany,High income
+DEU,2017,45553.9341495339,Germany,High income
+GHA,2020,2195.45481659987,Ghana,Lower middle income
+GHA,2019,2186.65822682613,Ghana,Lower middle income
+GHA,2018,2195.32166016377,Ghana,Lower middle income
+GHA,2017,2012.28662641265,Ghana,Lower middle income
+GIB,2020,32067.9623756889,Gibraltar,High income
+GIB,2019,32067.9623756889,Gibraltar,High income
+GIB,2018,32067.9623756889,Gibraltar,High income
+GIB,2017,32067.9623756889,Gibraltar,High income
+GRC,2020,17886.733165236,Greece,High income
+GRC,2019,19335.3602002969,Greece,High income
+GRC,2018,19873.4015238771,Greece,High income
+GRC,2017,18631.9930129293,Greece,High income
+GRL,2020,54812.6661771023,Greenland,High income
+GRL,2019,53309.2035905065,Greenland,High income
+GRL,2018,54545.135857765,Greenland,High income
+GRL,2017,50765.7494665372,Greenland,High income
+GRD,2020,8968.55890108484,Grenada,Upper middle income
+GRD,2019,10462.7929159533,Grenada,Upper middle income
+GRD,2018,10083.021279225,Grenada,Upper middle income
+GRD,2017,9751.42661155932,Grenada,Upper middle income
+GUM,2020,36482.9363953675,Guam,High income
+GUM,2019,39274.9431424899,Guam,High income
+GUM,2018,37195.9503070464,Guam,High income
+GUM,2017,36779.0078903909,Guam,High income
+GTM,2020,4477.61785000665,Guatemala,Upper middle income
+GTM,2019,4511.99839552697,Guatemala,Upper middle income
+GTM,2018,4352.94593289707,Guatemala,Upper middle income
+GTM,2017,4324.99768915601,Guatemala,Upper middle income
+GIN,2020,1053.66097696415,Guinea,Lower middle income
+GIN,2019,1031.34146480732,Guinea,Lower middle income
+GIN,2018,933.273615633705,Guinea,Lower middle income
+GIN,2017,833.598621691121,Guinea,Lower middle income
+GNB,2020,846.915855715971,Guinea-Bissau,Low income
+GNB,2019,811.216425885129,Guinea-Bissau,Low income
+GNB,2018,808.531613218504,Guinea-Bissau,Low income
+GNB,2017,783.123186602022,Guinea-Bissau,Low income
+GUY,2020,6775.70939096303,Guyana,High income
+GUY,2019,6405.82443444562,Guyana,High income
+GUY,2018,6048.38697180418,Guyana,High income
+GUY,2017,6178.6650437298,Guyana,High income
+HTI,2020,1290.32538667383,Haiti,Lower middle income
+HTI,2019,1352.17204191532,Haiti,Lower middle income
+HTI,2018,1496.38048970156,Haiti,Lower middle income
+HTI,2017,1395.23945184461,Haiti,Lower middle income
+HND,2020,2307.61494319511,Honduras,Lower middle income
+HND,2019,2502.32744328073,Honduras,Lower middle income
+HND,2018,2464.64241531918,Honduras,Lower middle income
+HND,2017,2413.0076562942,Honduras,Lower middle income
+HKG,2020,46109.2299946609,"Hong Kong SAR, China",High income
+HKG,2019,48359.0011950597,"Hong Kong SAR, China",High income
+HKG,2018,48537.5668888343,"Hong Kong SAR, China",High income
+HKG,2017,46160.429791493,"Hong Kong SAR, China",High income
+HUN,2020,16386.9308821258,Hungary,High income
+HUN,2019,17012.8598553199,Hungary,High income
+HUN,2018,16605.0570511887,Hungary,High income
+HUN,2017,14736.1668157258,Hungary,High income
+ISL,2020,60127.9393575616,Iceland,High income
+ISL,2019,69296.3144361601,Iceland,High income
+ISL,2018,75633.8651351915,Iceland,High income
+ISL,2017,72976.3729990975,Iceland,High income
+IND,2020,1907.04251637669,India,Lower middle income
+IND,2019,2041.42863698585,India,Lower middle income
+IND,2018,1966.25455171679,India,Lower middle income
+IND,2017,1950.10468280866,India,Lower middle income
+IDN,2020,3853.70288774146,Indonesia,Upper middle income
+IDN,2019,4106.94856160358,Indonesia,Upper middle income
+IDN,2018,3860.95353090726,Indonesia,Upper middle income
+IDN,2017,3798.88326174526,Indonesia,Upper middle income
+IRN,2020,3202.50003502169,"Iran, Islamic Rep.",Upper middle income
+IRN,2019,3997.4935449585,"Iran, Islamic Rep.",Upper middle income
+IRN,2018,4783.01067340237,"Iran, Islamic Rep.",Upper middle income
+IRN,2017,6000.93346404409,"Iran, Islamic Rep.",Upper middle income
+IRQ,2020,4295.18945121228,Iraq,Upper middle income
+IRQ,2019,5671.8568632942,Iraq,Upper middle income
+IRQ,2018,5646.68932074742,Iraq,Upper middle income
+IRQ,2017,4759.2846435467,Iraq,Upper middle income
+IRL,2020,86514.0706108754,Ireland,High income
+IRL,2019,81827.6688873996,Ireland,High income
+IRL,2018,80804.1123164826,Ireland,High income
+IRL,2017,72161.4047531385,Ireland,High income
+IMN,2020,79513.5330346598,Isle of Man,High income
+IMN,2019,87127.5517977404,Isle of Man,High income
+IMN,2018,89393.8244248812,Isle of Man,High income
+IMN,2017,83481.3038489014,Isle of Man,High income
+ISR,2020,44575.5719045492,Israel,High income
+ISR,2019,44250.6313628073,Israel,High income
+ISR,2018,42362.6652754196,Israel,High income
+ISR,2017,41138.470964272,Israel,High income
+ITA,2020,32091.4866621366,Italy,High income
+ITA,2019,33812.788724868,Italy,High income
+ITA,2018,34904.1081923834,Italy,High income
+ITA,2017,32844.115660604,Italy,High income
+JAM,2020,5299.04530804283,Jamaica,Upper middle income
+JAM,2019,6030.68896415921,Jamaica,Upper middle income
+JAM,2018,5976.90362644337,Jamaica,Upper middle income
+JAM,2017,5605.43541173019,Jamaica,Upper middle income
+JPN,2020,40028.7341726762,Japan,High income
+JPN,2019,40415.9567649547,Japan,High income
+JPN,2018,39751.1330982711,Japan,High income
+JPN,2017,38834.0529341227,Japan,High income
+JOR,2020,4022.0401356135,Jordan,Lower middle income
+JOR,2019,4170.1144003465,Jordan,Lower middle income
+JOR,2018,4145.43989673265,Jordan,Lower middle income
+JOR,2017,4065.61628749384,Jordan,Lower middle income
+KAZ,2020,8781.50797787648,Kazakhstan,Upper middle income
+KAZ,2019,9457.12614657136,Kazakhstan,Upper middle income
+KAZ,2018,9472.48527327758,Kazakhstan,Upper middle income
+KAZ,2017,8943.08416791984,Kazakhstan,Upper middle income
+KEN,2020,1927.66459027849,Kenya,Lower middle income
+KEN,2019,1960.40808854893,Kenya,Lower middle income
+KEN,2018,1836.45275528993,Kenya,Lower middle income
+KEN,2017,1667.48447230835,Kenya,Lower middle income
+KIR,2020,1751.78249168214,Kiribati,Lower middle income
+KIR,2019,1750.9977188915,Kiribati,Lower middle income
+KIR,2018,1912.73809378187,Kiribati,Lower middle income
+KIR,2017,1853.05122713319,Kiribati,Lower middle income
+PRK,2020,694.2114670452045,"Korea, Dem. People's Rep.",Low income
+PRK,2019,694.2114670452045,"Korea, Dem. People's Rep.",Low income
+PRK,2018,694.2114670452045,"Korea, Dem. People's Rep.",Low income
+PRK,2017,694.2114670452045,"Korea, Dem. People's Rep.",Low income
+KOR,2020,33645.7719545073,"Korea, Rep.",High income
+KOR,2019,33826.9443301597,"Korea, Rep.",High income
+KOR,2018,35363.9508228687,"Korea, Rep.",High income
+KOR,2017,33296.9845439195,"Korea, Rep.",High income
+XKX,2020,4310.88963754863,Kosovo,Upper middle income
+XKX,2019,4415.99923011071,Kosovo,Upper middle income
+XKX,2018,4384.18796444738,Kosovo,Upper middle income
+XKX,2017,4009.32022050863,Kosovo,Upper middle income
+KWT,2020,25236.0755848941,Kuwait,High income
+KWT,2019,31707.8737443551,Kuwait,High income
+KWT,2018,32067.9623756889,Kuwait,High income
+KWT,2017,29047.6536135703,Kuwait,High income
+KGZ,2020,1229.51766602907,Kyrgyz Republic,Lower middle income
+KGZ,2019,1421.99927504102,Kyrgyz Republic,Lower middle income
+KGZ,2018,1283.5203037417,Kyrgyz Republic,Lower middle income
+KGZ,2017,1221.39046807082,Kyrgyz Republic,Lower middle income
+LAO,2020,2583.77730696131,Lao PDR,Lower middle income
+LAO,2019,2589.32081035237,Lao PDR,Lower middle income
+LAO,2018,2545.1075420815,Lao PDR,Lower middle income
+LAO,2017,2432.43059478511,Lao PDR,Lower middle income
+LVA,2020,17564.2321549354,Latvia,High income
+LVA,2019,17294.9751600969,Latvia,High income
+LVA,2018,17252.1710428626,Latvia,High income
+LVA,2017,15132.4958333982,Latvia,High income
+LBN,2020,5561.19166950397,Lebanon,Lower middle income
+LBN,2019,8905.88005497437,Lebanon,Lower middle income
+LBN,2018,9174.53666204759,Lebanon,Lower middle income
+LBN,2017,8608.21084982387,Lebanon,Lower middle income
+LSO,2020,918.582574704447,Lesotho,Lower middle income
+LSO,2019,1082.05706777516,Lesotho,Lower middle income
+LSO,2018,1170.65569702819,Lesotho,Lower middle income
+LSO,2017,1069.36673247542,Lesotho,Lower middle income
+LBR,2020,616.787867006715,Liberia,Low income
+LBR,2019,658.164180770507,Liberia,Low income
+LBR,2018,692.203127129794,Liberia,Low income
+LBR,2017,699.269095727404,Liberia,Low income
+LBY,2020,6650.33810585348,Libya,Upper middle income
+LBY,2019,9963.19489084483,Libya,Upper middle income
+LBY,2018,11196.5854810844,Libya,Upper middle income
+LBY,2017,9965.83236729757,Libya,Upper middle income
+LIE,2020,164671.093553454,Liechtenstein,High income
+LIE,2019,166907.839305016,Liechtenstein,High income
+LIE,2018,174988.775083446,Liechtenstein,High income
+LIE,2017,170547.092298954,Liechtenstein,High income
+LTU,2020,20428.6478157394,Lithuania,High income
+LTU,2019,19608.7943945553,Lithuania,High income
+LTU,2018,19247.2315367967,Lithuania,High income
+LTU,2017,16800.1510246099,Lithuania,High income
+LUX,2020,116860.02817236,Luxembourg,High income
+LUX,2019,112696.649059674,Luxembourg,High income
+LUX,2018,116926.759593905,Luxembourg,High income
+LUX,2017,110193.213797228,Luxembourg,High income
+MAC,2020,36883.6652578543,"Macao SAR, China",High income
+MAC,2019,81882.6964523869,"Macao SAR, China",High income
+MAC,2018,83588.2875009014,"Macao SAR, China",High income
+MAC,2017,77570.9876166977,"Macao SAR, China",High income
+MDG,2020,450.771615201509,Madagascar,Low income
+MDG,2019,499.818837622534,Madagascar,Low income
+MDG,2018,500.45718552916,Madagascar,Low income
+MDG,2017,491.866848718929,Madagascar,Low income
+MWI,2020,602.507478176106,Malawi,Low income
+MWI,2019,580.889139762475,Malawi,Low income
+MWI,2018,533.202567189331,Malawi,Low income
+MWI,2017,495.769683367165,Malawi,Low income
+MYS,2020,9957.52626697613,Malaysia,Upper middle income
+MYS,2019,10920.191763972,Malaysia,Upper middle income
+MYS,2018,10901.8019954421,Malaysia,Upper middle income
+MYS,2017,9862.54806612235,Malaysia,Upper middle income
+MDV,2020,7393.8886543933,Maldives,Upper middle income
+MDV,2019,11740.2724029785,Maldives,Upper middle income
+MDV,2018,11423.2838427029,Maldives,Upper middle income
+MDV,2017,10509.628805812,Maldives,Upper middle income
+MLI,2020,953.242943290974,Mali,Low income
+MLI,2019,971.949318638092,Mali,Low income
+MLI,2018,996.379292136901,Mali,Low income
+MLI,2017,924.057531692284,Mali,Low income
+MLT,2020,31823.4363934505,Malta,High income
+MLT,2019,32421.9179752262,Malta,High income
+MLT,2018,33382.2677499267,Malta,High income
+MLT,2017,30317.2443175543,Malta,High income
+MHL,2020,5661.96787336674,Marshall Islands,Upper middle income
+MHL,2019,5292.33985502306,Marshall Islands,Upper middle income
+MHL,2018,4858.12079054875,Marshall Islands,Upper middle income
+MHL,2017,4592.83457628576,Marshall Islands,Upper middle income
+MRT,2020,1795.76459566714,Mauritania,Lower middle income
+MRT,2019,1767.072710621,Mauritania,Lower middle income
+MRT,2018,1722.93528854073,Mauritania,Lower middle income
+MRT,2017,1615.00401327323,Mauritania,Lower middle income
+MUS,2020,9135.84773751062,Mauritius,Upper middle income
+MUS,2019,11568.2533399824,Mauritius,Upper middle income
+MUS,2018,11818.7480619272,Mauritius,Upper middle income
+MUS,2017,10986.7034093005,Mauritius,Upper middle income
+MEX,2020,8841.27075039868,Mexico,Upper middle income
+MEX,2019,10369.5553585271,Mexico,Upper middle income
+MEX,2018,10084.7937562021,Mexico,Upper middle income
+MEX,2017,9649.27816772402,Mexico,Upper middle income
+FSM,2020,3362.02802120524,"Micronesia, Fed. Sts.",Lower middle income
+FSM,2019,3572.65918282222,"Micronesia, Fed. Sts.",Lower middle income
+FSM,2018,3566.58690371125,"Micronesia, Fed. Sts.",Lower middle income
+FSM,2017,3279.10779039285,"Micronesia, Fed. Sts.",Lower middle income
+MDA,2020,4375.7788930524,Moldova,Upper middle income
+MDA,2019,4405.33418162155,Moldova,Upper middle income
+MDA,2018,4156.44981956646,Moldova,Upper middle income
+MDA,2017,3453.26727720294,Moldova,Upper middle income
+MCO,2020,176891.886538492,Monaco,High income
+MCO,2019,193746.785647412,Monaco,High income
+MCO,2018,188298.315668437,Monaco,High income
+MCO,2017,170663.375247872,Monaco,High income
+MNG,2020,4001.25193077703,Mongolia,Upper middle income
+MNG,2019,4347.54610314873,Mongolia,Upper middle income
+MNG,2018,4107.64288528468,Mongolia,Upper middle income
+MNG,2017,3645.96708669551,Mongolia,Upper middle income
+MNE,2020,7538.53635992191,Montenegro,Upper middle income
+MNE,2019,8749.02375172644,Montenegro,Upper middle income
+MNE,2018,8673.59128084795,Montenegro,Upper middle income
+MNE,2017,7674.2813940676,Montenegro,Upper middle income
+MAR,2020,3268.0302734375,Morocco,Lower middle income
+MAR,2019,3508.09765625,Morocco,Lower middle income
+MAR,2018,3501.69799804688,Morocco,Lower middle income
+MAR,2017,3296.52661132813,Morocco,Lower middle income
+MOZ,2020,462.433876479921,Mozambique,Low income
+MOZ,2019,519.09255091362,Mozambique,Low income
+MOZ,2018,517.507260258101,Mozambique,Low income
+MOZ,2017,470.93856305196,Mozambique,Low income
+MMR,2020,1490.21683599469,Myanmar,Lower middle income
+MMR,2019,1425.98954241668,Myanmar,Lower middle income
+MMR,2018,1298.21310327675,Myanmar,Lower middle income
+MMR,2017,1272.82241815234,Myanmar,Lower middle income
+NAM,2020,3878.58982993966,Namibia,Lower middle income
+NAM,2019,4731.9210318831,Namibia,Lower middle income
+NAM,2018,5308.60813408705,Namibia,Lower middle income
+NAM,2017,5143.96072323076,Namibia,Lower middle income
+NRU,2020,10709.068810538,Nauru,High income
+NRU,2019,10801.7705659635,Nauru,High income
+NRU,2018,11413.7463016389,Nauru,High income
+NRU,2017,9656.97976571484,Nauru,High income
+NPL,2020,1154.21517578318,Nepal,Lower middle income
+NPL,2019,1203.14294706401,Nepal,Lower middle income
+NPL,2018,1179.19843190389,Nepal,Lower middle income
+NPL,2017,1034.28374906846,Nepal,Lower middle income
+NLD,2020,53467.9277413737,Netherlands,High income
+NLD,2019,53554.9007491475,Netherlands,High income
+NLD,2018,53955.0770024266,Netherlands,High income
+NLD,2017,49513.6817346384,Netherlands,High income
+NCL,2020,33270.330597637,New Caledonia,High income
+NCL,2019,33411.3358835672,New Caledonia,High income
+NCL,2018,34902.8968780031,New Caledonia,High income
+NCL,2017,32354.7102832901,New Caledonia,High income
+NZL,2020,41997.7830324279,New Zealand,High income
+NZL,2019,42855.831861632,New Zealand,High income
+NZL,2018,43257.0769238879,New Zealand,High income
+NZL,2017,42950.3841711138,New Zealand,High income
+NIC,2020,1938.44704754382,Nicaragua,Lower middle income
+NIC,2019,1958.62051528095,Nicaragua,Lower middle income
+NIC,2018,2035.16549390507,Nicaragua,Lower middle income
+NIC,2017,2182.61380995674,Nicaragua,Lower middle income
+NER,2020,579.512495758236,Niger,Low income
+NER,2019,561.691304349698,Niger,Low income
+NER,2018,578.568035680892,Niger,Low income
+NER,2017,521.804130023434,Niger,Low income
+NGA,2020,2797.18458068686,Nigeria,Lower middle income
+NGA,2019,3189.81286498516,Nigeria,Lower middle income
+NGA,2018,2057.87944554011,Nigeria,Lower middle income
+NGA,2017,1876.34027111773,Nigeria,Lower middle income
+MKD,2020,6659.59651070776,North Macedonia,Upper middle income
+MKD,2019,6718.85826635458,North Macedonia,Upper middle income
+MKD,2018,6713.98925398989,North Macedonia,Upper middle income
+MKD,2017,5955.2973863451,North Macedonia,Upper middle income
+MNP,2020,18220.8382427201,Northern Mariana Islands,High income
+MNP,2019,24496.6652122421,Northern Mariana Islands,High income
+MNP,2018,26509.3628379893,Northern Mariana Islands,High income
+MNP,2017,31225.6049960968,Northern Mariana Islands,High income
+NOR,2020,68340.0181033702,Norway,High income
+NOR,2019,76430.5889473338,Norway,High income
+NOR,2018,82792.8427113304,Norway,High income
+NOR,2017,76131.8384032764,Norway,High income
+OMN,2020,16784.8630630058,Oman,High income
+OMN,2019,19180.1864152801,Oman,High income
+OMN,2018,19901.7615642016,Oman,High income
+OMN,2017,17820.0661809335,Oman,High income
+PAK,2020,1278.39735206896,Pakistan,Lower middle income
+PAK,2019,1390.41690981745,Pakistan,Lower middle income
+PAK,2018,1569.33814626355,Pakistan,Lower middle income
+PAK,2017,1519.23459514248,Pakistan,Lower middle income
+PLW,2020,14708.2119536914,Palau,High income
+PLW,2019,15846.7968470167,Palau,High income
+PLW,2018,16166.9671073752,Palau,High income
+PLW,2017,16401.7847567871,Palau,High income
+PAN,2020,13290.5608397749,Panama,High income
+PAN,2019,16477.9066268111,Panama,High income
+PAN,2018,16151.3273433486,Panama,High income
+PAN,2017,15694.6297518495,Panama,High income
+PNG,2020,2429.61134585269,Papua New Guinea,Lower middle income
+PNG,2019,2575.77274140393,Papua New Guinea,Lower middle income
+PNG,2018,2566.36833735041,Papua New Guinea,Lower middle income
+PNG,2017,2477.76530986323,Papua New Guinea,Lower middle income
+PRY,2020,5365.47220721104,Paraguay,Upper middle income
+PRY,2019,5821.18199548738,Paraguay,Upper middle income
+PRY,2018,6258.44991640984,Paraguay,Upper middle income
+PRY,2017,6152.2671153779,Paraguay,Upper middle income
+PER,2020,6133.32552410183,Peru,Upper middle income
+PER,2019,7037.00803692604,Peru,Upper middle income
+PER,2018,6978.49121548627,Peru,Upper middle income
+PER,2017,6736.16693725487,Peru,Upper middle income
+PHL,2020,3227.57910235199,Philippines,Lower middle income
+PHL,2019,3400.78949767074,Philippines,Lower middle income
+PHL,2018,3168.51036609727,Philippines,Lower middle income
+PHL,2017,3038.12124959289,Philippines,Lower middle income
+POL,2020,16150.9304813473,Poland,High income
+POL,2019,15874.5220531254,Poland,High income
+POL,2018,15658.2120316794,Poland,High income
+POL,2017,13913.3402919927,Poland,High income
+PRT,2020,22299.4044062173,Portugal,High income
+PRT,2019,23343.3628970034,Portugal,High income
+PRT,2018,23541.1401075289,Portugal,High income
+PRT,2017,21442.3842768879,Portugal,High income
+PRI,2020,31427.1130762831,Puerto Rico (US),High income
+PRI,2019,31830.5284993358,Puerto Rico (US),High income
+PRI,2018,30679.9181934488,Puerto Rico (US),High income
+PRI,2017,30328.479490518,Puerto Rico (US),High income
+QAT,2020,51683.5681078949,Qatar,High income
+QAT,2019,66841.3623185691,Qatar,High income
+QAT,2018,71039.9308240078,Qatar,High income
+QAT,2017,63279.8767486216,Qatar,High income
+ROU,2020,13009.1770573223,Romania,High income
+ROU,2019,12909.6104013244,Romania,High income
+ROU,2018,12416.134317959,Romania,High income
+ROU,2017,10727.9822007426,Romania,High income
+RUS,2020,10108.3271484375,Russian Federation,High income
+RUS,2019,11447.701171875,Russian Federation,High income
+RUS,2018,11211.8876953125,Russian Federation,High income
+RUS,2017,10658.9130859375,Russian Federation,High income
+RWA,2020,778.701498925026,Rwanda,Low income
+RWA,2019,810.051412137354,Rwanda,Low income
+RWA,2018,771.773511207309,Rwanda,Low income
+RWA,2017,758.300966509647,Rwanda,Low income
+WSM,2020,4099.59660548583,Samoa,Upper middle income
+WSM,2019,4351.94234943706,Samoa,Upper middle income
+WSM,2018,4231.81409469194,Samoa,Upper middle income
+WSM,2017,4307.59381964907,Samoa,Upper middle income
+SMR,2020,44326.9556746411,San Marino,High income
+SMR,2019,46630.1443120725,San Marino,High income
+SMR,2018,47950.6880557136,San Marino,High income
+SMR,2017,45192.0279766943,San Marino,High income
+STP,2020,2167.22001796925,Sao Tome and Principe,Lower middle income
+STP,2019,1935.2931816596,Sao Tome and Principe,Lower middle income
+STP,2018,1825.59971753966,Sao Tome and Principe,Lower middle income
+STP,2017,1555.79477812888,Sao Tome and Principe,Lower middle income
+SAU,2020,24338.8307301067,Saudi Arabia,High income
+SAU,2019,29566.7933827436,Saudi Arabia,High income
+SAU,2018,29360.0658968566,Saudi Arabia,High income
+SAU,2017,23929.2907135982,Saudi Arabia,High income
+SEN,2020,1461.08720350553,Senegal,Lower middle income
+SEN,2019,1431.18128932159,Senegal,Lower middle income
+SEN,2018,1452.55612562445,Senegal,Lower middle income
+SEN,2017,1356.80518449031,Senegal,Lower middle income
+SRB,2020,8098.70955668849,Serbia,Upper middle income
+SRB,2019,7755.632986437,Serbia,Upper middle income
+SRB,2018,7559.86165747394,Serbia,Upper middle income
+SRB,2017,6548.03653824187,Serbia,Upper middle income
+SYC,2020,14041.4754074575,Seychelles,High income
+SYC,2019,19141.5118743615,Seychelles,High income
+SYC,2018,18440.2340460932,Seychelles,High income
+SYC,2017,17480.3651911372,Seychelles,High income
+SLE,2020,845.277557920549,Sierra Leone,Low income
+SLE,2019,843.712517809977,Sierra Leone,Low income
+SLE,2018,845.914540460932,Sierra Leone,Low income
+SLE,2017,779.186007841728,Sierra Leone,Low income
+SGP,2020,61410.0792630788,Singapore,High income
+SGP,2019,65952.0378959293,Singapore,High income
+SGP,2018,66881.6067035265,Singapore,High income
+SGP,2017,61236.251270627,Singapore,High income
+SXM,2020,30150.8998380477,Sint Maarten (Dutch part),High income
+SXM,2019,34861.469528968,Sint Maarten (Dutch part),High income
+SXM,2018,31708.3110124742,Sint Maarten (Dutch part),High income
+SXM,2017,34701.3058494468,Sint Maarten (Dutch part),High income
+SVK,2020,19735.4858280801,Slovak Republic,High income
+SVK,2019,19406.0589683582,Slovak Republic,High income
+SVK,2018,19573.3717031314,Slovak Republic,High income
+SVK,2017,17645.5298716761,Slovak Republic,High income
+SVN,2020,25392.0651093612,Slovenia,High income
+SVN,2019,25814.1687167572,Slovenia,High income
+SVN,2018,25888.0481065655,Slovenia,High income
+SVN,2017,23303.077705959,Slovenia,High income
+SLB,2020,2063.32780991967,Solomon Islands,Lower middle income
+SLB,2019,2223.65890942466,Solomon Islands,Lower middle income
+SLB,2018,2278.19908624102,Solomon Islands,Lower middle income
+SLB,2017,2143.57670489272,Solomon Islands,Lower middle income
+SOM,2020,518.16113333875,"Somalia, Fed. Rep.",Low income
+SOM,2019,539.954816211694,"Somalia, Fed. Rep.",Low income
+SOM,2018,509.497273804534,"Somalia, Fed. Rep.",Low income
+SOM,2017,510.939952317726,"Somalia, Fed. Rep.",Low income
+ZAF,2020,5580.60383075189,South Africa,Upper middle income
+ZAF,2019,6533.71121032856,South Africa,Upper middle income
+ZAF,2018,6914.1780318076,South Africa,Upper middle income
+ZAF,2017,6618.33508255701,South Africa,Upper middle income
+SSD,2020,694.2114670452045,South Sudan,Low income
+SSD,2019,694.2114670452045,South Sudan,Low income
+SSD,2018,694.2114670452045,South Sudan,Low income
+SSD,2017,694.2114670452045,South Sudan,Low income
+ESP,2020,27233.9426461608,Spain,High income
+ESP,2019,29786.5245689007,Spain,High income
+ESP,2018,30602.4212881113,Spain,High income
+ESP,2017,28381.3425596906,Spain,High income
+LKA,2020,3847.60137695639,Sri Lanka,Lower middle income
+LKA,2019,4081.94772722003,Sri Lanka,Lower middle income
+LKA,2018,4358.56095906047,Sri Lanka,Lower middle income
+LKA,2017,4398.88828068715,Sri Lanka,Lower middle income
+KNA,2020,18859.0190361046,St. Kitts and Nevis,High income
+KNA,2019,23595.4923231291,St. Kitts and Nevis,High income
+KNA,2018,22901.3816403197,St. Kitts and Nevis,High income
+KNA,2017,22464.9899633959,St. Kitts and Nevis,High income
+LCA,2020,8411.07474936367,St. Lucia,Upper middle income
+LCA,2019,11794.0597229805,St. Lucia,Upper middle income
+LCA,2018,11642.6984727769,St. Lucia,Upper middle income
+LCA,2017,11333.1123822102,St. Lucia,Upper middle income
+MAF,2020,32067.9623756889,St. Martin (French part),High income
+MAF,2019,19033.0649634889,St. Martin (French part),High income
+MAF,2018,32067.9623756889,St. Martin (French part),High income
+MAF,2017,32067.9623756889,St. Martin (French part),High income
+VCT,2020,8351.20324040982,St. Vincent and the Grenadines,Upper middle income
+VCT,2019,8740.59425232061,St. Vincent and the Grenadines,Upper middle income
+VCT,2018,8428.12677153069,St. Vincent and the Grenadines,Upper middle income
+VCT,2017,7988.04445019298,St. Vincent and the Grenadines,Upper middle income
+SDN,2020,577.795227050781,Sudan,Low income
+SDN,2019,709.975280761719,Sudan,Low income
+SDN,2018,731.027465820313,Sudan,Low income
+SDN,2017,966.505676269531,Sudan,Low income
+SUR,2020,4755.39221710693,Suriname,Upper middle income
+SUR,2019,6629.66775248603,Suriname,Upper middle income
+SUR,2018,6665.74180472239,Suriname,Upper middle income
+SUR,2017,6049.52128553675,Suriname,Upper middle income
+SWE,2020,52568.5726980146,Sweden,High income
+SWE,2019,51648.9892820514,Sweden,High income
+SWE,2018,54018.4554391861,Sweden,High income
+SWE,2017,53210.2233318965,Sweden,High income
+CHE,2020,85897.7843338323,Switzerland,High income
+CHE,2019,84121.9310304414,Switzerland,High income
+CHE,2018,85217.3691512274,Switzerland,High income
+CHE,2017,82254.3769269767,Switzerland,High income
+SYR,2020,572.355289831901,Syrian Arab Republic,Low income
+SYR,2019,1109.53926036049,Syrian Arab Republic,Low income
+SYR,2018,1098.0668642357,Syrian Arab Republic,Low income
+SYR,2017,851.502005254153,Syrian Arab Republic,Low income
+TJK,2020,834.311715460625,Tajikistan,Lower middle income
+TJK,2019,871.022372934846,Tajikistan,Lower middle income
+TJK,2018,834.288404578801,Tajikistan,Lower middle income
+TJK,2017,829.45714764957,Tajikistan,Lower middle income
+TZA,2020,1117.41528320313,Tanzania,Lower middle income
+TZA,2019,1063.32250976563,Tanzania,Lower middle income
+TZA,2018,1023.10626220703,Tanzania,Lower middle income
+TZA,2017,986.674011230469,Tanzania,Lower middle income
+THA,2020,6985.64393892574,Thailand,Upper middle income
+THA,2019,7605.69657797759,Thailand,Upper middle income
+THA,2018,7099.77650081458,Thailand,Upper middle income
+THA,2017,6413.09182530343,Thailand,Upper middle income
+TLS,2020,1630.86938521256,Timor-Leste,Lower middle income
+TLS,2019,1562.36458068032,Timor-Leste,Lower middle income
+TLS,2018,1219.46599728983,Timor-Leste,Lower middle income
+TLS,2017,1266.17771143471,Timor-Leste,Lower middle income
+TGO,2020,863.468665870276,Togo,Low income
+TGO,2019,826.255209019798,Togo,Low income
+TGO,2018,851.120561233595,Togo,Low income
+TGO,2017,792.765700965864,Togo,Low income
+TON,2020,4792.35854741522,Tonga,Upper middle income
+TON,2019,4788.83342304684,Tonga,Upper middle income
+TON,2018,4675.04791274385,Tonga,Upper middle income
+TON,2017,4365.92932788383,Tonga,Upper middle income
+TTO,2020,15283.6270531554,Trinidad and Tobago,High income
+TTO,2019,17212.6128892163,Trinidad and Tobago,High income
+TTO,2018,17571.498737278,Trinidad and Tobago,High income
+TTO,2017,17566.0999700656,Trinidad and Tobago,High income
+TUN,2020,3548.65363663803,Tunisia,Lower middle income
+TUN,2019,3528.87213306798,Tunisia,Lower middle income
+TUN,2018,3628.10366464236,Tunisia,Lower middle income
+TUN,2017,3619.03247319953,Tunisia,Lower middle income
+TUR,2020,8798.11791709313,Turkiye,Upper middle income
+TUR,2019,9395.23378001368,Turkiye,Upper middle income
+TUR,2018,9684.11819884721,Turkiye,Upper middle income
+TUR,2017,10756.3877677883,Turkiye,Upper middle income
+TKM,2020,5972.72356566861,Turkmenistan,Upper middle income
+TKM,2019,5998.0017434754,Turkmenistan,Upper middle income
+TKM,2018,6125.05169712085,Turkmenistan,Upper middle income
+TKM,2017,5828.4816623489,Turkmenistan,Upper middle income
+TCA,2020,20690.9160546118,Turks and Caicos Islands,High income
+TCA,2019,31780.5217068989,Turks and Caicos Islands,High income
+TCA,2018,31625.616593277,Turks and Caicos Islands,High income
+TCA,2017,30014.2309523213,Turks and Caicos Islands,High income
+TUV,2020,4976.11254109571,Tuvalu,Upper middle income
+TUV,2019,5115.13075950206,Tuvalu,Upper middle income
+TUV,2018,4466.12034928245,Tuvalu,Upper middle income
+TUV,2017,4165.66338700106,Tuvalu,Upper middle income
+UGA,2020,845.766463890124,Uganda,Low income
+UGA,2019,822.171150036357,Uganda,Low income
+UGA,2018,792.16570022814,Uganda,Low income
+UGA,2017,765.218332297361,Uganda,Low income
+UKR,2020,3709.76928710938,Ukraine,Upper middle income
+UKR,2019,3619.86157226563,Ukraine,Upper middle income
+UKR,2018,3059.0517578125,Ukraine,Upper middle income
+UKR,2017,2604.28759765625,Ukraine,Upper middle income
+ARE,2020,37991.7492971665,United Arab Emirates,High income
+ARE,2019,45938.6073581994,United Arab Emirates,High income
+ARE,2018,47135.3591943971,United Arab Emirates,High income
+ARE,2017,43733.6192287435,United Arab Emirates,High income
+GBR,2020,40812.6794663879,United Kingdom,High income
+GBR,2019,43158.7411267323,United Kingdom,High income
+GBR,2018,43702.9976303165,United Kingdom,High income
+GBR,2017,40916.8115070354,United Kingdom,High income
+USA,2020,63515.9491807833,United States,High income
+USA,2019,64746.4506778863,United States,High income
+USA,2018,62499.8744390068,United States,High income
+USA,2017,59635.0984397965,United States,High income
+URY,2020,15757.5355995779,Uruguay,High income
+URY,2019,18315.7316980028,Uruguay,High income
+URY,2018,19249.9404677501,Uruguay,High income
+URY,2017,19184.6502617082,Uruguay,High income
+UZB,2020,1978.28051860763,Uzbekistan,Lower middle income
+UZB,2019,2041.38480729431,Uzbekistan,Lower middle income
+UZB,2018,1813.08530813664,Uzbekistan,Lower middle income
+UZB,2017,2190.60411562888,Uzbekistan,Lower middle income
+VUT,2020,3042.98711598286,Vanuatu,Lower middle income
+VUT,2019,3207.44650452083,Vanuatu,Lower middle income
+VUT,2018,3206.65748718811,Vanuatu,Lower middle income
+VUT,2017,3159.86055790126,Vanuatu,Lower middle income
+VEN,2020,1506.0436210041,"Venezuela, RB",Unknown
+VEN,2019,2523.11275230667,"Venezuela, RB",Unknown
+VEN,2018,3422.65467014854,"Venezuela, RB",Unknown
+VEN,2017,3791.33160682077,"Venezuela, RB",Unknown
+VNM,2020,3534.03953482647,Viet Nam,Lower middle income
+VNM,2019,3440.90025375434,Viet Nam,Lower middle income
+VNM,2018,3222.31003125366,Viet Nam,Lower middle income
+VNM,2017,2956.10992127753,Viet Nam,Lower middle income
+VIR,2020,39787.3741650202,Virgin Islands (U.S.),High income
+VIR,2019,38633.5298915336,Virgin Islands (U.S.),High income
+VIR,2018,36663.2087550584,Virgin Islands (U.S.),High income
+VIR,2017,35365.0693039774,Virgin Islands (U.S.),High income
+PSE,2020,3233.56863835858,West Bank and Gaza,Lower middle income
+PSE,2019,3656.85827137011,West Bank and Gaza,Lower middle income
+PSE,2018,3562.33094270256,West Bank and Gaza,Lower middle income
+PSE,2017,3620.36048715937,West Bank and Gaza,Lower middle income
+YEM,2020,694.2114670452045,"Yemen, Rep.",Low income
+YEM,2019,694.2114670452045,"Yemen, Rep.",Low income
+YEM,2018,633.887202451545,"Yemen, Rep.",Low income
+YEM,2017,811.165970405745,"Yemen, Rep.",Low income
+ZMB,2020,951.644316655957,Zambia,Lower middle income
+ZMB,2019,1258.98619844462,Zambia,Lower middle income
+ZMB,2018,1463.89997855593,Zambia,Lower middle income
+ZMB,2017,1483.46577328065,Zambia,Lower middle income
+ZWE,2020,2059.67445384499,Zimbabwe,Lower middle income
+ZWE,2019,2184.32923855469,Zimbabwe,Lower middle income
+ZWE,2018,2270.89531874302,Zimbabwe,Lower middle income
+ZWE,2017,3445.44941020134,Zimbabwe,Lower middle income

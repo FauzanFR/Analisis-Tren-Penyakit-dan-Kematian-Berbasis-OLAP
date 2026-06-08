@@ -1,0 +1,266 @@
+country_id,kode_negara,negara
+C001,AFE,Africa Eastern and Southern
+C002,AFG,Afghanistan
+C003,AFW,Africa Western and Central
+C004,AGO,Angola
+C005,ALB,Albania
+C006,AND,Andorra
+C007,ARB,Arab World
+C008,ARE,United Arab Emirates
+C009,ARG,Argentina
+C010,ARM,Armenia
+C011,ATG,Antigua and Barbuda
+C012,AUS,Australia
+C013,AUT,Austria
+C014,AZE,Azerbaijan
+C015,BDI,Burundi
+C016,BEL,Belgium
+C017,BEN,Benin
+C018,BFA,Burkina Faso
+C019,BGD,Bangladesh
+C020,BGR,Bulgaria
+C021,BHR,Bahrain
+C022,BHS,"Bahamas, The"
+C023,BIH,Bosnia and Herzegovina
+C024,BLR,Belarus
+C025,BLZ,Belize
+C026,BOL,Bolivia
+C027,BRA,Brazil
+C028,BRB,Barbados
+C029,BRN,Brunei Darussalam
+C030,BTN,Bhutan
+C031,BWA,Botswana
+C032,CAF,Central African Republic
+C033,CAN,Canada
+C034,CEB,Central Europe and the Baltics
+C035,CHE,Switzerland
+C036,CHL,Chile
+C037,CHN,China
+C038,CIV,Cote d'Ivoire
+C039,CMR,Cameroon
+C040,COD,"Congo, Dem. Rep."
+C041,COG,"Congo, Rep."
+C042,COL,Colombia
+C043,COM,Comoros
+C044,CPV,Cabo Verde
+C045,CRI,Costa Rica
+C046,CSS,Caribbean small states
+C047,CUB,Cuba
+C048,CYP,Cyprus
+C049,CZE,Czechia
+C050,DEU,Germany
+C051,DJI,Djibouti
+C052,DMA,Dominica
+C053,DNK,Denmark
+C054,DOM,Dominican Republic
+C055,DZA,Algeria
+C056,EAP,East Asia & Pacific (excluding high income)
+C057,EAR,Early-demographic dividend
+C058,EAS,East Asia & Pacific
+C059,ECA,Europe & Central Asia (excluding high income)
+C060,ECS,Europe & Central Asia
+C061,ECU,Ecuador
+C062,EGY,"Egypt, Arab Rep."
+C063,EMU,Euro area
+C064,ERI,Eritrea
+C065,ESP,Spain
+C066,EST,Estonia
+C067,ETH,Ethiopia
+C068,EUU,European Union
+C069,FCS,Fragile and conflict affected situations
+C070,FIN,Finland
+C071,FJI,Fiji
+C072,FRA,France
+C073,FSM,"Micronesia, Fed. Sts."
+C074,GAB,Gabon
+C075,GBR,United Kingdom
+C076,GEO,Georgia
+C077,GHA,Ghana
+C078,GIN,Guinea
+C079,GMB,"Gambia, The"
+C080,GNB,Guinea-Bissau
+C081,GNQ,Equatorial Guinea
+C082,GRC,Greece
+C083,GRD,Grenada
+C084,GTM,Guatemala
+C085,GUY,Guyana
+C086,HIC,High income
+C087,HND,Honduras
+C088,HPC,Heavily indebted poor countries (HIPC)
+C089,HRV,Croatia
+C090,HTI,Haiti
+C091,HUN,Hungary
+C092,IBD,IBRD only
+C093,IBT,IDA & IBRD total
+C094,IDA,IDA total
+C095,IDB,IDA blend
+C096,IDN,Indonesia
+C097,IDX,IDA only
+C098,IND,India
+C099,IRL,Ireland
+C100,IRN,"Iran, Islamic Rep."
+C101,IRQ,Iraq
+C102,ISL,Iceland
+C103,ISR,Israel
+C104,ITA,Italy
+C105,JAM,Jamaica
+C106,JOR,Jordan
+C107,JPN,Japan
+C108,KAZ,Kazakhstan
+C109,KEN,Kenya
+C110,KGZ,Kyrgyz Republic
+C111,KHM,Cambodia
+C112,KIR,Kiribati
+C113,KNA,St. Kitts and Nevis
+C114,KOR,"Korea, Rep."
+C115,KWT,Kuwait
+C116,LAC,Latin America & Caribbean (excluding high income)
+C117,LAO,Lao PDR
+C118,LBN,Lebanon
+C119,LBR,Liberia
+C120,LBY,Libya
+C121,LCA,St. Lucia
+C122,LCN,Latin America & Caribbean
+C123,LDC,Least developed countries: UN classification
+C124,LIC,Low income
+C125,LKA,Sri Lanka
+C126,LMC,Lower middle income
+C127,LMY,Low & middle income
+C128,LSO,Lesotho
+C129,LTE,Late-demographic dividend
+C130,LTU,Lithuania
+C131,LUX,Luxembourg
+C132,LVA,Latvia
+C133,MAR,Morocco
+C134,MCO,Monaco
+C135,MDA,Moldova
+C136,MDG,Madagascar
+C137,MDV,Maldives
+C138,MEA,"Middle East, North Africa, Afghanistan & Pakistan"
+C139,MEX,Mexico
+C140,MHL,Marshall Islands
+C141,MIC,Middle income
+C142,MKD,North Macedonia
+C143,MLI,Mali
+C144,MLT,Malta
+C145,MMR,Myanmar
+C146,MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+C147,MNE,Montenegro
+C148,MNG,Mongolia
+C149,MOZ,Mozambique
+C150,MRT,Mauritania
+C151,MUS,Mauritius
+C152,MWI,Malawi
+C153,MYS,Malaysia
+C154,NAC,North America
+C155,NAM,Namibia
+C156,NER,Niger
+C157,NGA,Nigeria
+C158,NIC,Nicaragua
+C159,NLD,Netherlands
+C160,NOR,Norway
+C161,NPL,Nepal
+C162,NRU,Nauru
+C163,NZL,New Zealand
+C164,OED,OECD members
+C165,OMN,Oman
+C166,OSS,Other small states
+C167,PAK,Pakistan
+C168,PAN,Panama
+C169,PER,Peru
+C170,PHL,Philippines
+C171,PLW,Palau
+C172,PNG,Papua New Guinea
+C173,POL,Poland
+C174,PRE,Pre-demographic dividend
+C175,PRK,"Korea, Dem. People's Rep."
+C176,PRT,Portugal
+C177,PRY,Paraguay
+C178,PSE,West Bank and Gaza
+C179,PSS,Pacific island small states
+C180,PST,Post-demographic dividend
+C181,QAT,Qatar
+C182,ROU,Romania
+C183,RUS,Russian Federation
+C184,RWA,Rwanda
+C185,SAS,South Asia
+C186,SAU,Saudi Arabia
+C187,SDN,Sudan
+C188,SEN,Senegal
+C189,SGP,Singapore
+C190,SLB,Solomon Islands
+C191,SLE,Sierra Leone
+C192,SLV,El Salvador
+C193,SMR,San Marino
+C194,SOM,"Somalia, Fed. Rep."
+C195,SRB,Serbia
+C196,SSA,Sub-Saharan Africa (excluding high income)
+C197,SSD,South Sudan
+C198,SSF,Sub-Saharan Africa
+C199,SST,Small states
+C200,STP,Sao Tome and Principe
+C201,SUR,Suriname
+C202,SVK,Slovak Republic
+C203,SVN,Slovenia
+C204,SWE,Sweden
+C205,SWZ,Eswatini
+C206,SYC,Seychelles
+C207,SYR,Syrian Arab Republic
+C208,TCA,Turks and Caicos Islands
+C209,TCD,Chad
+C210,TEA,East Asia & Pacific (IDA & IBRD countries)
+C211,TEC,Europe & Central Asia (IDA & IBRD countries)
+C212,TGO,Togo
+C213,THA,Thailand
+C214,TJK,Tajikistan
+C215,TKM,Turkmenistan
+C216,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+C217,TLS,Timor-Leste
+C218,TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+C219,TON,Tonga
+C220,TSA,South Asia (IDA & IBRD)
+C221,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+C222,TTO,Trinidad and Tobago
+C223,TUN,Tunisia
+C224,TUR,Turkiye
+C225,TUV,Tuvalu
+C226,TZA,Tanzania
+C227,UGA,Uganda
+C228,UKR,Ukraine
+C229,UMC,Upper middle income
+C230,URY,Uruguay
+C231,USA,United States
+C232,UZB,Uzbekistan
+C233,VCT,St. Vincent and the Grenadines
+C234,VEN,"Venezuela, RB"
+C235,VGB,British Virgin Islands
+C236,VNM,Viet Nam
+C237,VUT,Vanuatu
+C238,WLD,World
+C239,WSM,Samoa
+C240,XKX,Kosovo
+C241,YEM,"Yemen, Rep."
+C242,ZAF,South Africa
+C243,ZMB,Zambia
+C244,ZWE,Zimbabwe
+C245,ABW,Aruba
+C246,ASM,American Samoa
+C247,BMU,Bermuda
+C248,CHI,Channel Islands
+C249,CUW,Curacao
+C250,CYM,Cayman Islands
+C251,FRO,Faroe Islands
+C252,GIB,Gibraltar
+C253,GRL,Greenland
+C254,GUM,Guam
+C255,HKG,"Hong Kong SAR, China"
+C256,IMN,Isle of Man
+C257,LIE,Liechtenstein
+C258,MAC,"Macao SAR, China"
+C259,MAF,St. Martin (French part)
+C260,MNP,Northern Mariana Islands
+C261,NCL,New Caledonia
+C262,PRI,Puerto Rico (US)
+C263,PYF,French Polynesia
+C264,SXM,Sint Maarten (Dutch part)
+C265,VIR,Virgin Islands (U.S.)
